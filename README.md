@@ -1,6 +1,9 @@
 # Useful Scripts  
 This repo is where I will store some useful scripts that I made. Feel free to use them and I hope this will be helpful for someone.
 
+# Info
+Read the comments in the scripts. These are public versions of my scripts and may need to have variables assigned by YOU in order to work.
+
 # License  
 Free to use and distribute.  
 
