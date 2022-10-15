@@ -4,6 +4,7 @@
 #
 # Variables
 # ADD YOUR USERNAME HERE BEFORE RUNNING
+# Username is required as a variable since this script requires sudo access so the default variable for this will use root
 username=myuser
 nmap_output_path=/home/$username/Documents/nmap_outputs
 # ADD YOUR NETWORK HERE IN IPV4 IN THE FORMAT OF X.X.X.0
