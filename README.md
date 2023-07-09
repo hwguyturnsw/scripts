@@ -1,3 +1,7 @@
+![GitHub release (with filter)](https://img.shields.io/github/v/release/hwguyturnsw/scripts?label=Latest-Release)
+![GitHub all releases](https://img.shields.io/github/downloads/hwguyturnsw/scripts/total?label=All-Downloads)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/hwguyturnsw/scripts/v0.0.1/total)
+
 # Useful Scripts  
 This repo is where I will store some useful scripts that I made. Feel free to use them and I hope this will be helpful for someone.
 
